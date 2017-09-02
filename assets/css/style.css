@@ -1,0 +1,16 @@
+body {
+  background-color:#596673
+}
+
+.container {
+  background-color:#c6ccd2;
+}
+
+#jumbotron {
+  text-align:center;
+  background-color:#337ab7
+}
+
+#input {
+  width:100%;
+}
